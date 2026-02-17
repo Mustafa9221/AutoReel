@@ -194,11 +194,6 @@ Direct social media upload
 
 MIT License
 
-👤 Author
-
-Hamza Khan
-Computer Science Student
-AI • Machine Learning • Automation
 
 
 ---
